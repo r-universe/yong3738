@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cplots"]
+	path = cplots
+	url = https://github.com/cran/cplots
+	shallow = true
+	registered = true
+[submodule "lsei"]
+	path = lsei
+	url = https://github.com/cran/lsei
+	shallow = true
+	registered = true
+[submodule "npsurv"]
+	path = npsurv
+	url = https://github.com/cran/npsurv
+	shallow = true
+	registered = true
+[submodule "nspmix"]
+	path = nspmix
+	url = https://github.com/cran/nspmix
+	shallow = true
+	registered = true
